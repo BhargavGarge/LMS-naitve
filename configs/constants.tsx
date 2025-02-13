@@ -23,13 +23,13 @@ export const onBoardingSlides: onBoardingSlidesTypes[] = [
         }}
       />
     ),
-    secondTitle: "Our Community",
+    secondTitle: "Your Study Options",
     subTitle:
-      "Find the perfect course to enhance your career prospects and skill set",
+      "Discover top universities and programs in Germany that match your career goals.",
   },
   {
     color: "#A7F893",
-    title: "Set Your",
+    title: "Plan Your",
     image: (
       <Image
         source={Two}
@@ -39,9 +39,9 @@ export const onBoardingSlides: onBoardingSlidesTypes[] = [
         }}
       />
     ),
-    secondTitle: "Own Goal",
+    secondTitle: "Study Journey",
     subTitle:
-      "Personalize your study plan with flexible timelines that suit you best",
+      "Get step-by-step guidance on applications, visa procedures, and scholarships.",
   },
   {
     color: "#FFC0CB",
@@ -54,10 +54,10 @@ export const onBoardingSlides: onBoardingSlidesTypes[] = [
         }}
       />
     ),
-    title: "Complete full",
-    secondTitle: "Course",
+    title: "Achieve Your",
+    secondTitle: "Dream Education",
     subTitle:
-      "Achieve certification by completing courses with dedicated effort",
+      "Secure admission to your dream university and start your journey in Germany.",
   },
 ];
 
